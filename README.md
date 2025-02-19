@@ -5,7 +5,7 @@
 
 <img align= "right" width= "400" src="https://media.tenor.com/images/4884e76b181d3f87f4e8243208c8a362/tenor.gif" >
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **Development**
 
 - 🌱 I’m currently learning **Data Science**
 
