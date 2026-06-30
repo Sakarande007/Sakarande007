@@ -87,7 +87,7 @@ Production cloud applications, end to end.
 
 </td> </tr> </table> <picture> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="100%" /> </picture>
  📊  GitHub Analytics
-<div align="center"> <a href="https://github.com/Sakarande007"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sakarande007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2D95" /> </a> <a href="https://github.com/Sakarande007"> <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=Sakarande007&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF2D95&currStreakLabel=00F5FF" /> </a>
+<div align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sakarande007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2D95" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=Sakarande007&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF2D95&currStreakLabel=00F5FF" /> </a>
 <br/><br/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakarande007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&langs_count=8" />
